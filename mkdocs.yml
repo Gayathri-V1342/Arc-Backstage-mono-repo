@@ -1,0 +1,11 @@
+---
+site_name: "Arc-Backstage-mono-repo"
+site_description: "Arc-Backstage-mono-repo"
+
+docs_dir: ./terraform
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
